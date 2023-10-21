@@ -18,8 +18,8 @@ Enable JSDOC typing just by adding a `jsconfig.json` with this simple configurat
 
 ## Evaluation
 
-Evaluated simple types and functions in `multiplyByTwo` example.
-Evaluated object types, unions and intersections in `enhcanceCat` example.
+- Evaluated simple types and functions in `multiplyByTwo` example.
+- Evaluated object types, unions and intersections in `enhcanceCat` example.
 
 AND LOVED IT.
 
